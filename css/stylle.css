@@ -1,0 +1,105 @@
+body{
+    background-color: pink;
+}
+
+#total{
+
+width:766px;
+height:800px;
+background-color:#fff;
+margin:auto;
+}
+
+#total1{
+
+    width:720px;
+    height:800px;
+    background-color:blue;
+    margin:auto;
+    }
+
+#first{
+
+        width:720px;
+        height:98px;
+        background-color:aqua;
+       
+}
+#second{
+    width:720px;
+        height:594px;
+        background-color: pink;
+       
+}
+
+#second1{
+    width: 440px;
+    height: 594px;
+    float: left;
+    background-color: beige;
+}
+
+
+#sec{
+    width: 432px;
+    height: 204px;
+    background-color: black;
+    padding: 10px;
+}
+#sec img{
+    margin: 0px 10px 0px 10px;
+}
+#sec1{
+    width: 442px;
+    height: 138px;
+    background-color: brown;
+}
+#sec1 h2{
+    margin:0px;
+    font-size: 10px;
+    color: #000;
+
+}
+#sec1 p{
+    margin: 0px;
+    font-size: 8px;
+    counter-reset: #000;
+    margin: 0px 0px 0px 10px;
+    
+}
+
+#sec1 img{
+    margin: 0px 10px 0px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#first1{
+
+    width:720px;
+    height:108px;
+    background-color:aqua;
+   
+}
+
+
+

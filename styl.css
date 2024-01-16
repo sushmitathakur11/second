@@ -1,0 +1,386 @@
+body{
+    background-color: pink;
+    margin: 0px;
+}
+.outer{
+    width: 100%;
+    background-color: white;
+
+}
+.outer1{
+    width:1140px;
+    height: 105px;
+    margin: auto;
+}
+.inner{
+    width: 300px;
+    float:left;
+   
+}
+.inner1{
+    width:600px;
+    float: right; 
+}
+.inner1 i{
+    color:red;
+    margin:20px 0px 0px 0px;
+}
+.inner1 ul{
+    margin: 0px;
+    list-style: none;
+}
+.inner1 ul li{
+    float: left;
+    padding: 20px;
+    margin:30px 0px 0px 0px;
+}
+.inner1 img{
+    float: right;
+    padding: 50px 0px 0px 10px;
+}
+.second{
+    width: 100%;
+   
+}
+.second img{
+    width: 100%;
+}
+.third{
+    width: 100%;
+    padding-bottom:30px;
+    background-color: white;
+   
+}
+.third1{
+    width: 1140px;
+    margin: auto;
+    background-color: white;
+}
+.third_left{
+    width: 800px;
+    float: left;    
+}
+.third_left{
+    text-transform: capitalize;
+}
+.third_right{
+    width: 125px;
+    float: right;
+    margin: 80px -19px 0px 0px;
+}
+.third_right input{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+/*.third2{
+    width: 1140px;
+    height: 200px;
+    margin: auto;
+    background-color: gray;
+}*/
+.clearfix{
+    clear: both;
+}
+
+.t1t{
+    width:380px;
+    height: 180px;
+    float: left;
+    background-color: silver;
+}
+.t1t i{
+    padding: 20px 0px 0px 20px;
+    color: white;
+}
+.t1t h1{
+    font-size: 20px;
+    color: white;
+    padding: 10px 110px 0px 0px;
+    float: right;
+}
+.t1t p{
+    margin: 0px;
+    color: white;
+    padding: 0px 26px 0px 67px;
+}
+
+.t2t{
+    width:380px;
+    height: 180px;
+    float: left;
+    background-color: skyblue;
+}
+.t2t i{
+    padding: 20px 0px 0px 20px;
+    color: white;
+} 
+.t2t h1{
+    font-size: 20px;
+    color: white;
+    padding: 10px 120px 0px 0px;
+    float: right;
+}
+.t2t p{
+    margin: 0px;
+    color: white;
+    padding: 0px 26px 0px 80px;
+}
+
+.t3t{
+    width:380px;
+    height: 180px;
+    float: right;
+    background-color: orangered;
+}
+.t3t i{
+    padding: 20px 0px 0px 20px;
+    color: white;
+} 
+.t3t h1{
+    font-size: 20px;
+    color: white;
+    padding: 10px 90px 0px 0px;
+    float: right;
+}
+.t3t p{
+    margin: 0px;
+    color: white;
+    padding: 0px 26px 0px 80px;
+}
+
+.four{
+    width: 100%;
+    background-color: lightgrey;
+}
+.four1{
+    width: 100%;
+}
+.f1{
+    width: 100%;
+}
+.f1 h1{
+    margin: 0px;
+    text-align: center;
+    padding: 50px;
+    text-transform: capitalize;
+}
+.clearfix{
+    clear: both;
+
+}
+
+.pic1{
+    float: left;
+    width: 25%;
+}
+.pic1 img{
+    width: 100%;
+}
+.pic2{
+    float: left;
+    width: 25%;
+}
+.pic2 img{
+    width: 100%;
+}
+.pic3{
+    float: left;
+    width: 25%;
+}
+.pic3 img{
+    width: 100%;
+}
+.pic4{
+    float: right;
+    width: 25%;
+}
+.pic4 img{
+    width: 100%;
+}
+.f2{
+    width: 100%;
+}
+.f2 h1{ 
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+
+.four2{
+    width: 100%;
+    height: 80px;
+    background-color: brown;
+}
+
+.five1{
+    width:1140px;
+    margin: auto;
+    background-color: aliceblue;
+}
+.five1 h1{
+    text-align: center;
+    margin: 0px;
+    text-transform: capitalize;
+    margin: 35px 0px 28px 0px;
+}
+.kk{
+    color:red;
+font-weight:bold;
+font-size:35px;
+}
+.fivepic1{
+    width: 377px;
+    float: left;
+    border: 1px solid black;
+   
+}
+.two{
+    width:300px;
+    margin: 0px;
+    background-color: aqua;
+}
+.two h1{
+    font-size: 20px; 
+    margin: 0px;
+}
+.two p{
+    margin: 0px 0px 0px 37px;
+}
+.pp{
+    width:300px;
+    margin: 0px;
+    background-color: gray; 
+}
+.fivepic1 img{
+    width: 306px;
+   
+}
+.blank{
+    width: 378px;
+    float: left;
+    border: 1px solid black;
+   
+}
+.blank p{
+    text-align: center;
+    margin: 10px 20px 10px 20px;
+}
+.blank h1{
+    color: green;
+    font-size: 20px;
+}
+.blank2{
+    width: 378px;
+    float: right;
+    border: 1px solid black;
+   
+}
+.blank2 img{
+    width: 306px;
+    float: right;
+}
+.five2{
+    width: 377px;
+    float: left;
+    border: 1px solid black;
+}
+.five{
+    width: 377px;
+    height: 400px;
+    float: left;
+    border: 1px solid black;
+}
+.fivee{
+    width: 378px;
+    height: 400px;
+    float: left;
+    border: 1px solid black;
+}
+.fiveee{
+    width: 377px;
+    height: 400px;
+    float: right;
+    border: 1px solid black;
+}
+.last{
+    width: 100%;
+    background-color: orange;
+}
+.last1{
+    width: 1140px;
+    margin: auto;
+}
+.one{
+    float: left;
+}
+.one p{
+    margin-top: 0px;
+}
+.left{
+    width: 800px;
+    float: left;
+    
+}
+.left h1{
+    margin: 0px;
+    color: white;
+    text-transform:capitalize;
+    padding: 30px 0px 0px 0px;
+}
+.left p{
+    color: white;
+    margin: 0px;
+    padding-bottom: 50px;
+    
+}
+.right{
+    width: 125px;
+    float: right;
+    margin: 40px 0px 0px 210px;
+   
+}
+.right input{
+    background-color: wheat;
+    color: black;
+    padding: 20px;
+}
+.last2{
+    width: 100%;
+    height: 600px;
+    background-color: gray;
+}
+.last3{
+    width: 1140px;
+    height: 600px;
+    margin: auto;
+   
+}
+
+.l1{
+    width: 283px;
+    float: left;
+}
+.l1 i{
+    color: white;
+}
+.l1 p{
+    color: white;
+}
+.l2{
+    width: 283px;
+    height: 300px;
+    float: left;
+    border: 1px solid black;
+}
+.l3{
+    width: 283px;
+    height: 300px;
+    float: left;
+    border: 1px solid black;
+}
+.l4{
+    width: 283px;
+    height: 300px;
+    float: right;
+    border: 1px solid black;
+}

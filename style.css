@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+}
+#total{
+    width: 800px;
+    height: 2900px;
+    margin: auto;
+    background-color: white;
+    
+}
+#total2{
+    width: 800px;
+    height: 100px;
+    background-color: rgb(72, 186, 248);
+  
+}
+
+#total3{
+   float: left; 
+   height: 100px;
+   
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+#total4{
+    float: left;
+    color: white;
+    height: 100px;
+   
+}
+ 
+#total4 ol li{
+    display: inline-block;
+    font-size: 30px;
+    padding: 20px;
+    text-shadow: 2px 2px red;
+    
+}
+#second{
+    height: 400px;
+    background-color: white;
+}
+#sec1{
+
+    width: 135px;
+    height:400px;
+    float: left;
+    background-color: goldenrod;
+    margin-right: 20px;
+}
+#sec2{
+
+    width: 135px;
+    height:400px;
+    float: left;
+    background-color: steelblue;
+    margin-right: 20px;
+}
+#sec3{
+    width: 135px;
+    height:400px;
+    float: left;
+    background-color: orchid;
+    margin-right: 20px;
+}
+#sec4{
+    width: 135px;
+    height:400px;
+    float: left;
+    background-color: yellowgreen;
+    margin-right: 20px;
+}
+#sec5{
+    width: 135px;
+    height: 400px;
+    float: left;
+    background-color: hotpink;
+    margin-right: 20px;
+}
+

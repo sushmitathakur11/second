@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: aquamarine;
+    margin: 0px;
+}
+.clearfix{
+    clear: both;
+}
+.first{
+    width: 100%;
+    background-color: blue;
+    height: 65px;
+}
+.first_A{
+    width: 1920px;
+    background-color: wheat;
+    margin: auto;
+    height: 65px;
+}
+.first_B{
+    width: 960px;
+    background-color: orange;
+    float: left;
+    height: 65px;   
+}
+.first_B i{
+    color: white;
+    padding: 15px 0p 0px 300px;
+}
+.first_c{
+    width: 960px;
+    background-color:orange;
+    float: right;
+    height: 65px;
+}
+.first_c h1{
+    font-size: 25px;
+    color: wheat;
+    text-align: center;
+    padding: 15px 60px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.first_c button{
+    width: 70px;
+    background-color: orange;
+    margin: 15px 60px 0px 0px;
+}
+.first1{
+    width: 100%;
+    background-color: blue;
+}
+
+.first_A1{
+    width: 1920px;
+    background-color: wheat;
+    margin: auto;
+}
+.first_B1{
+    width: 960px;
+    background-color: wheat;
+    margin: auto;
+}
+.first_B1 ul{
+    list-style: none;
+}
+
+.first_B1 ul li{
+    float: left;
+    margin: 10px 0px 0px 20px;
+}
+
+
+
+
+.active{
+    color: red;
+}
+.index{
+    width: 100%;
+    background-color: blue;
+    height: 65px;
+}
+.index1{
+    width: 1920px;
+    background-color: wheat;
+    margin: auto;
+}
+.index1 h1{
+    color: red;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+
+
+
+.contact{
+    width: 100%;
+    background-color: blue;
+    height: 65px;
+}
+.contact_inner{
+    width: 1920px;
+    background-color: wheat;
+    margin: auto;
+}
+
+.about{
+    width: 100%;
+    background-color: blue;
+    height: 65px;
+}
+.about_inner
+{
+    width: 1920px;
+    background-color: wheat;
+   
+}
